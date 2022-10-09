@@ -1,4 +1,4 @@
-/* Ejercicios de funciones Dalto:
+/* Ejercicios de practica funciones:
 
 1) Compra una maquina que deja pasar solamente a los mayores de edad, la primer persona que pasa despues de las 2 am, no paga.
 
@@ -10,7 +10,7 @@
 3) 
 
 
-Hecho por Dalto:
+
 
 
 1)
